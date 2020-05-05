@@ -34,5 +34,8 @@
     #konfigurasi username
     git config --global user.username username
 
+    #Menginvansi git
+    git invansi 
+
 
 
